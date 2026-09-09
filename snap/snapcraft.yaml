@@ -399,6 +399,7 @@ parts:
       - steam-libs-amd64
       - steam-libs-i386
       - libappindicator3-1
+      - libx11-data
       - libxcb-dri3-0:amd64
       - libxcb-dri3-0:i386
       - xkb-data
